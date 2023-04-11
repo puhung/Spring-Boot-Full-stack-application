@@ -4,15 +4,14 @@ This is a online course project for learning to build a Full stack web applicati
 
 ## Table of contents
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Sources](#sources)
 
 ## Technologies
 
-* 
+* Spring Boot REST API
+* Spring Security
+* JPA 
 
-
-## Setup
 
 
 
